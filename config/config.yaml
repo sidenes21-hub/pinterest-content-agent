@@ -1,0 +1,14 @@
+# Pinterest Content Agent Configuration
+
+api:
+  pinterest_api_key: "YOUR_API_KEY_HERE"
+  pinterest_api_secret: "YOUR_API_SECRET_HERE"
+
+generation:
+  image_model: "dall-e-3"
+  video_model: "runway"
+  posts_per_day: 3
+
+content:
+  min_images: 5
+  min_videos: 2
