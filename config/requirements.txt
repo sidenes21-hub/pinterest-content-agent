@@ -1,0 +1,23 @@
+# API и интеграции
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Генерация изображений
+openai==1.3.0
+pillow==10.0.0
+
+# Генерация видео
+moviepy==1.0.3
+
+# Pinterest API
+pinterest-api-official==1.0.0
+
+# Обработка данных
+pandas==2.0.0
+numpy==1.24.0
+
+# Конфигурация
+pyyaml==6.0
+
+# Логирование
+python-logging==0.5.1.2
